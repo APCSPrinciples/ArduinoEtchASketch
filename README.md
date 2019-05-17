@@ -13,7 +13,7 @@ Use the following circuit diagram to construct the circuit. The direction of the
 TBD
 
 ### Step 3: Write the program
-You will find the *analog reading*, *goto x y*, *pen down* and *forever* blocks helpful. Below is an example program.
+You will find the *analog reading*, *goto x y*, *pen down*, *wait* and *forever* blocks helpful. Below is an example program.
 ![](EtchASketch2.PNG)
 
 ### Step 4: Submit your finished program
