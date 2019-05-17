@@ -13,7 +13,7 @@ Use the following circuit diagram to construct the circuit.
 ![](EtchASketch.PNG)
 
 ### Step 2: Test the circuit
-TBD
+Create forever loops that say *analog reading 0* and *analog reading 1*. Check to see that the values change when you turn the potentiometers.
 
 ### Step 3: Write the program
 You will find the *analog reading*, *goto x y*, *pen down*, *wait* and *forever* blocks helpful. Below is an example program.
