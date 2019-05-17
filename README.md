@@ -17,7 +17,8 @@ Create forever loops that say *analog reading 0* and *analog reading 1*. Check t
 
 ### Step 3: Write the program
 You will find the *analog reading*, *goto x y*, *pen down*, *wait* and *forever* blocks helpful. Below is an example program.
-![](EtchASketch2.PNG)
+![](EtchASketch2.PNG)   
+Note that you can hide the picture of the Arduino sprite with a *hide* block.
 
 ### Step 4: Submit your finished program
 Have your teacher or a TA verify that you have a working program. Submit your finished program by uploading the .sb file to Google classroom. You should be able to find it in *My Documents | Scratch Projects*. If you worked with a partner, each partner should submit a copy of the finished program to Google classroom.
