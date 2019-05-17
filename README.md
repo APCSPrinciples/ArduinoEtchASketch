@@ -6,7 +6,10 @@ Our EtchASketch will use the following parts:
 - 2 potentiometers
 - Jumper wires   
    
-Use the following circuit diagram to construct the circuit. The direction of the photoresistor and the 10KΩ resistor is unimportant.   
+A potentiometer is a kind of resistor. The potentiometer in the Sparkfun kit is blue with a knob that turns. Turning the knob changes the resistance.  
+![](Potentiometer.PNG)
+
+Use the following circuit diagram to construct the circuit.    
 ![](EtchASketch.PNG)
 
 ### Step 2: Test the circuit
